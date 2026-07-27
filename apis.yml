@@ -1,8 +1,25 @@
 aid: insuretech-connect
 name: Insuretech Connect
-description: 'Insuretech Connect is a company surfaced as a portfolio company of qed-investors and added
-  to the API Evangelist network as a stub for enrichment. Sector: insurtech. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'InsureTech Connect (ITC) is the world''s largest insurance innovation
+  event series, produced by Clarion Events. Its flagship, ITC Vegas, brings together
+  9,000+ insurance carriers, insurtech startups, brokers, reinsurers, and investors
+  for three days of content, networking, and dealmaking, with regional editions in
+  Europe and Asia. Surfaced as a portfolio company of qed-investors and added to the
+  API Evangelist network. ITC is an events and media brand; as of this profile it
+  does not publish a public developer API, OpenAPI, SDKs, or event webhooks, so this
+  entry carries company identity and probed domain-security signals only.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.asp.events/CLIENT_CL_US_323E7AA7_5056_B733_8303D39C538813E0/sites/itc-vegas-2026/media/favicon.ico
 url: https://raw.githubusercontent.com/api-evangelist/insuretech-connect/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +29,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Insurtech
+- Insurance
+- Events
+- Conference
+- Innovation
+- Clarion Events
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +46,23 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://insuretechconnect.com
+  url: https://insuretechconnect.com
+- type: About
+  url: https://vegas.insuretechconnect.com/about
+- type: SignUp
+  url: https://vegas.insuretechconnect.com/register
+- type: Support
+  url: https://vegas.insuretechconnect.com/contact
+- type: TermsOfService
+  url: https://vegas.insuretechconnect.com/terms-conditions
+- type: PrivacyPolicy
+  url: https://us.clarionevents.com/privacy-policy
+- type: LLMsTxt
+  url: llms/insuretech-connect-llms.txt
+- type: DomainSecurity
+  url: security/insuretech-connect-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

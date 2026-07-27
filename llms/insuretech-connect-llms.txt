@@ -1,0 +1,27 @@
+# Insuretech Connect (ITC)
+
+> InsureTech Connect (ITC) is the world's largest insurance innovation event series, run by Clarion Events. Its flagship, ITC Vegas, gathers 9,000+ insurance carriers, insurtech startups, brokers, reinsurers, and investors for three days of content and networking, with regional editions in Europe and Asia. This is a company profile in the API Evangelist network; ITC is an events/media brand and does not currently publish a public developer API.
+
+## About
+- [ITC Vegas 2026](https://vegas.insuretechconnect.com/): Flagship event site — agenda, registration, sponsors.
+- [About ITC](https://vegas.insuretechconnect.com/about): Who ITC is and the team behind the event.
+- [FAQs](https://vegas.insuretechconnect.com/event-details/faqs): Attendee and logistics questions.
+- [Contact](https://vegas.insuretechconnect.com/contact): Reach the ITC team.
+
+## Regional editions
+- [ITC Europe](https://europe.insuretechconnect.com/): European edition.
+- [ITC Asia](https://asia.insuretechconnect.com/): Asian edition.
+
+## Register
+- [Register for ITC Vegas](https://vegas.insuretechconnect.com/register): Attendee registration.
+
+## Legal
+- [Terms & Conditions](https://vegas.insuretechconnect.com/terms-conditions): Event terms.
+- [Privacy Policy](https://us.clarionevents.com/privacy-policy): Clarion Events (parent) privacy policy.
+
+## API Evangelist profile
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/insuretech-connect/refs/heads/main/apis.yml): Machine-readable company profile (APIs.json).
+- [Domain security](https://raw.githubusercontent.com/api-evangelist/insuretech-connect/refs/heads/main/security/insuretech-connect-domain-security.yml): Probed TLS/HSTS/DNS posture.
+
+## Notes
+- No public developer API, OpenAPI, SDKs, MCP server, or webhook surface was found on the ITC properties as of 2026-07-19. This profile carries identity and domain-security signals only.
