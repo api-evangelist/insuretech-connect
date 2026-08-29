@@ -8,6 +8,17 @@ description: 'InsureTech Connect (ITC) is the world''s largest insurance innovat
   API Evangelist network. ITC is an events and media brand; as of this profile it
   does not publish a public developer API, OpenAPI, SDKs, or event webhooks, so this
   entry carries company identity and probed domain-security signals only.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
